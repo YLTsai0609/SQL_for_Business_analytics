@@ -1,0 +1,6 @@
+-- What tables do we need to pull from - highlight the field we want on the ERD
+-- if the filed is a new one(we need to create), use difference color
+-- How should we combine the tables - join and union
+-- what field so we need to create - season : static string, demographic group - conditional glods sum()
+-- what filter need to be included - where or having? brefore / after aggregation
+-- any ordering or limiting needed

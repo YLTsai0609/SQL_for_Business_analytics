@@ -1,0 +1,15 @@
+-- chp1
+    -- ERD(E : R diagrams)
+    -- Data Validation
+-- chp2
+    -- Planning query, 
+    -- Combining Tables
+    -- Creating costum field
+-- chp3
+    -- CAST
+    -- STRING
+    -- COALESCE() for cleaning
+    -- Dealing with duplication (JOIN MORE Field)
+-- chp4
+    -- WINDOW FUNCTION
+    -- Layer Caculations
