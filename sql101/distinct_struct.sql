@@ -1,0 +1,3 @@
+-- distinct struct is not allowed in sql
+-- use concat with sep
+-- https://stackoverflow.com/questions/55139443/bigquery-combine-two-columns
